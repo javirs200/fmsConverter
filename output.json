@@ -1,0 +1,51 @@
+[ 
+{ 
+"ident": "KLAX", 
+"type": "DPT", 
+"lat": 33.942474, 
+"lon": -118.409332, 
+"alt": 0, 
+"spd": "", 
+"heading": 0 
+}, 
+{ 
+"ident": "RW07L+3", 
+"type": "FIX", 
+"lat": 33.941658, 
+"lon": -118.362312, 
+"alt": 0, 
+"spd": "" 
+}, 
+{ 
+"ident": "SMO", 
+"type": "FIX", 
+"lat": 34.010242, 
+"lon": -118.456711, 
+"alt": 0, 
+"spd": "" 
+}, 
+{ 
+"ident": "HGT", 
+"type": "FIX", 
+"lat": 35.961166, 
+"lon": -121.189163, 
+"alt": 0, 
+"spd": "" 
+}, 
+{ 
+"ident": "fix", 
+"type": "FIX", 
+"lat": 37.161411, 
+"lon": -121.754951, 
+"alt": 0, 
+"spd": "" 
+}, 
+{ 
+"ident": "KSFO", 
+"type": "DST", 
+"lat": 37.618809, 
+"lon": -122.375420, 
+"alt": 0, 
+"spd": "" 
+} 
+] 
